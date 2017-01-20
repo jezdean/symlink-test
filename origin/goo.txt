@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x 1 jezde 197609 0 Jan 20 02:56 [0m[01;34m.[0m/
+drwxr-xr-x 1 jezde 197609 0 Jan 20 02:56 [01;34m..[0m/
+-rw-r--r-- 1 jezde 197609 0 Jan 20 02:56 fdaf.txt
+-rw-r--r-- 1 jezde 197609 0 Jan 20 02:56 goo.txt
